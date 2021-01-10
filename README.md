@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/htpcBeginner/docker-traefik)
+
 # Description
 
 This is the updated docker-compose repo of all the media and home server apps described in the following guides on our website:
